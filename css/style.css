@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #F5F5F5;
+}
+
+.heading h1 {
+	color: steelblue;
+	font-size: 34px;
+}
+
+.heading p {
+	color: grey;
+	font-size: 16px;
+}
+
+.form-box {
+	padding: 20px;
+	background-color: #FAFAFA;
+	border-radius: 15px;
+	box-shadow: 2px 5px 8px #BDBDBD;
+}
+
+.form-heading {
+	font-size: 22px;
+	text-align: left;
+	margin-top: -10px;
+}
+
+.table-box {
+	padding: 20px;
+	border-radius: 20px;
+	background-color: #FAFAFA;
+	box-shadow: 2px 5px 8px #BDBDBD;
+}
